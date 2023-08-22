@@ -1,0 +1,11 @@
+Dependencies for Project 'GPIO', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5858F0)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\function.c)(0x64E4101B)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "function.o" --omf_browse "function.crf" --depend "function.d")
+I (header.h)(0x64E4101C)
+I (C:\Keil\ARM\Inc\Philips\LPC214X.H)(0x4F585AA4)
+F (.\header.h)(0x64E4101C)()
+F (.\instences.h)(0x64E414D0)()
+F (.\main.c)(0x64E42258)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Philips -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (instences.h)(0x64E414D0)
+I (header.h)(0x64E4101C)
+I (C:\Keil\ARM\Inc\Philips\LPC214X.H)(0x4F585AA4)

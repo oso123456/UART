@@ -1,0 +1,521 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+G:\Amirtha\Day-02\GPIO.uvproj
+Project File Date:  08/20/2023
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+compiling main.c...
+instences.h(17): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1244 RO-data=32 RW-data=16 ZI-data=1256  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+compiling main.c...
+instences.h(17): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1244 RO-data=32 RW-data=16 ZI-data=1256  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+compiling main.c...
+instences.h(17): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1220 RO-data=32 RW-data=16 ZI-data=1256  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+compiling main.c...
+instences.h(17): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1268 RO-data=32 RW-data=16 ZI-data=1256  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+compiling main.c...
+instences.h(17): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1268 RO-data=32 RW-data=16 ZI-data=1256  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+instences.h(17): warning:  #1-D: last line of file ends without a newline
+main.c(8): error:  #41: expression must have arithmetic or pointer type
+main.c(8): error:  #18: expected a ")"
+main.c(13): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(13): error:  #127: expected a statement
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+instences.h(17): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1412 RO-data=32 RW-data=20 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 4 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(15): error:  #168: a function type is not allowed here
+instences.h(16): error:  #168: a function type is not allowed here
+instences.h(17): error:  #168: a function type is not allowed here
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(10): error:  #20: identifier "data" is undefined
+main.c(15): error:  #53: expected a ":"
+main.c(20): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(24): error:  #127: expected a statement
+main.c(28): warning:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(15): error:  #168: a function type is not allowed here
+instences.h(16): error:  #168: a function type is not allowed here
+instences.h(17): error:  #168: a function type is not allowed here
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(6): error:  #268: declaration may not appear after executable statement in block
+main.c(6): error:  #67: expected a "}"
+main.c(7): error:  #169: expected a declaration
+main.c(30): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(15): error:  #168: a function type is not allowed here
+instences.h(16): error:  #168: a function type is not allowed here
+instences.h(17): error:  #168: a function type is not allowed here
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(6): error:  #268: declaration may not appear after executable statement in block
+main.c(6): error:  #67: expected a "}"
+main.c(7): error:  #169: expected a declaration
+main.c(29): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(30): error:  #169: expected a declaration
+main.c(36): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(15): error:  #168: a function type is not allowed here
+instences.h(16): error:  #168: a function type is not allowed here
+instences.h(17): error:  #168: a function type is not allowed here
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(6): error:  #268: declaration may not appear after executable statement in block
+main.c(6): error:  #67: expected a "}"
+main.c(7): error:  #169: expected a declaration
+main.c(29): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(30): error:  #169: expected a declaration
+main.c(32): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(6): error:  #268: declaration may not appear after executable statement in block
+main.c(6): error:  #67: expected a "}"
+main.c(7): error:  #169: expected a declaration
+main.c(29): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(30): error:  #169: expected a declaration
+main.c(32): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(12): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+main.c(16): error:  #53: expected a ":"
+main.c(21): warning:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(12): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1944 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(12): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1944 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(12): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1944 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(12): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1944 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(13): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1960 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(13): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1960 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(13): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1960 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(13): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1960 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(14): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1960 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(14): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1972 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(15): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=2000 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(14): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=2000 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(14): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=2000 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(13): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=2004 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(13): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+main.c(32): error:  #65: expected a ";"
+main.c(34): warning:  #111-D: statement is unreachable
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(13): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=2016 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(12): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1984 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(12): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=1984 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling function.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+function.c(57): warning:  #111-D: statement is unreachable
+function.c(61): warning:  #111-D: statement is unreachable
+function.c(63): warning:  #940-D: missing return statement at end of non-void function "gpio_read"
+compiling main.c...
+header.h(9): warning:  #1295-D: Deprecated declaration uart_receive - give arg types
+header.h(10): warning:  #1-D: last line of file ends without a newline
+instences.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(12): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=2012 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"GPIO.axf" - 0 Error(s), 9 Warning(s).
